@@ -1,0 +1,79 @@
+{
+  "audioData": [
+    {
+      "prompt": "A cat"
+    },
+    {
+      "text": "A cat meowing",
+      "top_k": "250",
+      "top_p": "0",
+      "temperature": "10",
+      "duration": "10",
+      "cfg_coef": "1",
+      "audioURL": "audios/out.wav"
+    },
+    {
+      "text": "A cat meowing",
+      "top_k": "250",
+      "top_p": "0",
+      "temperature": "10",
+      "duration": "10",
+      "cfg_coef": "1",
+      "audioURL": "audios/out.wav"
+    },
+    {
+      "text": "A cat meowing",
+      "top_k": "250",
+      "top_p": "0",
+      "temperature": "10",
+      "duration": "10",
+      "cfg_coef": "1",
+      "audioURL": "audios/undefined.wav"
+    },
+    {
+      "text": "A cat meowing",
+      "top_k": "250",
+      "top_p": "0",
+      "temperature": "10",
+      "duration": "10",
+      "cfg_coef": "1",
+      "audioURL": "audios/undefined.wav"
+    },
+    {
+      "text": "A cat meowing",
+      "top_k": "250",
+      "top_p": "0",
+      "temperature": "10",
+      "duration": "10",
+      "cfg_coef": "1",
+      "audioURL": "audios/bf78d051036b264b57f7441d3985e249fa8dfd12.wav"
+    },
+    {
+      "text": "A cat meowing",
+      "top_k": "250",
+      "top_p": "0",
+      "temperature": "10",
+      "duration": "10",
+      "cfg_coef": "1",
+      "audioURL": "/media/audios/ca2a8f3d8299aacbfd8730585151191cb3613abb.wav"
+    },
+    {
+      "text": "A cat meawing",
+      "top_k": "250",
+      "top_p": "0",
+      "temperature": "1",
+      "duration": "10",
+      "cfg_coef": "1",
+      "audioURL": "/media/audios/8c2b6be6cf50b5e3d6209da39b492d83bf78cbb5.wav"
+    },
+    {
+      "text": "A cat meawing",
+      "top_k": "250",
+      "top_p": "0",
+      "temperature": "1",
+      "duration": "10",
+      "cfg_coef": "1",
+      "audioURL": "/media/audios/b84b4abb846dfc11ef134a3920a65c84df449386.wav"
+    }
+  ]
+}
